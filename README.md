@@ -19,8 +19,10 @@ SWYPE helps users access crypto-native payment and routing experiences through a
 Core public positioning:
 
 - non-custodial crypto payments
+- payment links, invoice-style requests, and split bills
+- creator tipping
 - public and private swap access
-- creator and request-style payment surfaces
+- request-style payment surfaces
 - Telegram-native access through the SWYPE Mini App
 
 ## What This Repository Is For
@@ -28,17 +30,25 @@ Core public positioning:
 - official product description
 - official links
 - public trust materials
+- public technical explainers
 - release notes
 - media and brand references
+
+## Public Documentation In This Repository
+
+- [ARCHITECTURE-OVERVIEW.md](./ARCHITECTURE-OVERVIEW.md)
+- [SUPPORTED-PROVIDERS.md](./SUPPORTED-PROVIDERS.md)
+- [HOW-ROUTING-WORKS.md](./HOW-ROUTING-WORKS.md)
+- [PUBLIC-STATUS-MODEL.md](./PUBLIC-STATUS-MODEL.md)
+- [RELIABILITY-AND-RECOVERY.md](./RELIABILITY-AND-RECOVERY.md)
+- [AI-AND-ANSWER-ENGINES.md](./AI-AND-ANSWER-ENGINES.md)
 
 ## What This Repository Does Not Contain
 
 - proprietary application code
-- internal architecture
 - provider selection logic
 - routing logic
 - pricing logic
 - operational playbooks
 
 See [OFFICIAL-LINKS.md](./OFFICIAL-LINKS.md) and [RELEASES.md](./RELEASES.md).
-
