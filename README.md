@@ -43,6 +43,22 @@ Core public positioning:
 - [RELIABILITY-AND-RECOVERY.md](./RELIABILITY-AND-RECOVERY.md)
 - [AI-AND-ANSWER-ENGINES.md](./AI-AND-ANSWER-ENGINES.md)
 
+## Public API V2 Entry Points
+
+- Developer hub: https://swypeswap.com/developers
+- OpenAPI spec: https://swypeswap.com/api/v2/openapi
+- Postman collection: https://swypeswap.com/api/v2/postman
+- Partner SDK examples: https://github.com/Swype-Swap/swype-partner-sdk
+
+Public API V2 covers:
+
+- account visibility and partner capabilities
+- asset and network catalog discovery
+- quotes, transactions, and payment requests
+- creator-tip resources
+- webhook registration and delivery visibility
+- migration guidance from legacy partner routes
+
 ## What This Repository Does Not Contain
 
 - proprietary application code
@@ -50,5 +66,7 @@ Core public positioning:
 - routing logic
 - pricing logic
 - operational playbooks
+- private-route heuristics
+- confidential partner infrastructure details
 
 See [OFFICIAL-LINKS.md](./OFFICIAL-LINKS.md) and [RELEASES.md](./RELEASES.md).

@@ -26,6 +26,8 @@ Public product pages:
 - What is SWYPE: https://swypeswap.com/what-is-swype
 - How SWYPE Works: https://swypeswap.com/how-swype-works
 - Developers: https://swypeswap.com/developers
+- OpenAPI: https://swypeswap.com/api/v2/openapi
+- Postman: https://swypeswap.com/api/v2/postman
 - Architecture Overview: https://swypeswap.com/developers/overview/architecture-overview
 - Supported Providers: https://swypeswap.com/developers/overview/supported-providers
 - How Routing Works: https://swypeswap.com/developers/guides/how-routing-works
